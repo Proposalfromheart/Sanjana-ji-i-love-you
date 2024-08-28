@@ -88,3 +88,7 @@ p {
     justify-content: center;
   }
 }
+
+#audio-player {
+  display: none;
+}
